@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Blood Donation Support System**
 - 🌱 I’m currently learning **Spring Boot, REST APIs, and Docker**
 - 👯 I’m looking to collaborate on **open source Java projects**
-- 📫 How to reach me: **your.email@gmail.com**
+- 📫 How to reach me: **huuvinh05926@gmail.com**
 - ⚡ Fun fact: I like travelling and sightseeing
 
 ---
