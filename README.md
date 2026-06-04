@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hữu Vinh</h1>
-<h3 align="center">Aspiring Backend Developer | Java + Spring Boot</h3>
+<h3 align="center">Aspiring Backend Developer | Full Stack Dev</h3>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Blood Donation Support System**
-- 🌱 I’m currently learning **Spring Boot, REST APIs, and Docker**
+- 🔭 I’m currently working on **Horse Racing system**
+- 🌱 I’m currently learning **Nodejs and Flutter**
 - 👯 I’m looking to collaborate on **open source Java projects**
 - 📫 How to reach me: **huuvinh05926@gmail.com**
 - ⚡ Fun fact: I like travelling and sightseeing
@@ -31,15 +31,6 @@
   <img src="https://img.shields.io/badge/REST API-%23000000.svg?style=flat&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=huuvinh05926&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
